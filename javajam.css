@@ -1,0 +1,96 @@
+body {
+  background-color: #fcebb6; 
+  color: #211811;
+  font-family: Tahoma, Arial, sans-serif;
+  background-image: url(windingroad.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+head { 
+  color: #cfb2ab;
+  background-color: #d2b48c;
+  text-align: center;
+}
+header{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+h1 { 
+   font-size: 3em;
+  color: #8c3826;
+  text-align: center;
+  background-color: #d2b48c;
+  
+}
+nav {
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+h2{
+  color: #8C3826;
+}
+nav a{
+  text-decoration: none;
+}
+footer {
+  
+  padding: 1em;
+  
+  border-top: 2px solid #8C3826;
+  text-align: center;
+  background-color: #d2b48c;
+  font-size: 0.6em;
+}
+h4 { 
+  background-color: #d2b48c;
+  font-size: 1.2em;
+  padding-left: 0.5em;
+  padding-bottom: 0.25em;
+
+}
+h3 , dt { 
+  color: #8c3826;
+
+}
+main{
+  padding-left: 2em;
+  padding-bottom: 2em;
+  padding-right: 2em;
+  display: block;
+  
+
+}
+.details{
+  padding-left: 20%;
+  padding-right: 20%;
+   padding-bottom: 1em;
+}
+img{
+  padding: 10px 10px;
+
+ 
+ 
+}
+
+li{
+  margin-left: 40pt;
+  margin-right: 40pt;
+}
+
+
+
+
+
+
+ 
+ 
+  
+  
+  
+  
+ 
